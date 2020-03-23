@@ -8,4 +8,4 @@ Flexbox: Posicione elementos na tela
 - Mais sobre flexbox & desafios
 
 --------------------
- ![](https://github.com/jacksonn455/Sass-Compass/blob/master/img.png)
+ ![](https://github.com/jacksonn455/flexbox/blob/master/imagem.png)
